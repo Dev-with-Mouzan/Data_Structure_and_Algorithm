@@ -13,10 +13,6 @@ class graph():
                     print(self.graph[i][j], end=' ')
                 print()
 
-
-
-
-
 if __name__ == "__main__":
     g = graph(5)
     g.add_edge(0, 1)

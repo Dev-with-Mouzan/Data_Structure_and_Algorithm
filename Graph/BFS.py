@@ -21,8 +21,6 @@ class graph:
                     visited.add(neighbor)
                     queue.append(neighbor)
 
-
-
 if __name__ == "__main__":
     g=graph()
     g.add_edge(0,1)

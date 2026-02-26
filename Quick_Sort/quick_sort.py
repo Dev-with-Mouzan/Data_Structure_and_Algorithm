@@ -9,5 +9,5 @@ def quick_sort(A):
 
 
 if __name__ == "__main__":
-    A = [3, 6, 8, 10, 1, 2, 1]
+    A = [3, 6, 83, 10, 1, 5, 1]
     print(quick_sort(A))

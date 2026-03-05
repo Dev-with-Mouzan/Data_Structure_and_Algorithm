@@ -5,7 +5,6 @@ class Node:
         self.left = None
         self.right = None
 
-# Binary Search Tree
 
 def insert(root, data):
     if root is None:

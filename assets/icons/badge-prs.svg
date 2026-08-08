@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="20" viewBox="0 0 110 20" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect width="46" height="20" fill="#3E3E3E"/>
+  <rect x="46" width="64" height="20" fill="#8B5CF6"/>
+  <text x="23" y="14" fill="#fff" font-size="10.5" text-anchor="middle">PRs</text>
+  <text x="78" y="14" fill="#fff" font-size="10.5" text-anchor="middle">Welcome</text>
+</svg>

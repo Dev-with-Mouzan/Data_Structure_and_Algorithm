@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="20" viewBox="0 0 104 20" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif">
+  <rect width="50" height="20" fill="#3E3E3E"/>
+  <rect x="50" width="54" height="20" fill="#10B981"/>
+  <text x="25" y="14" fill="#fff" font-size="10.5" text-anchor="middle">Topics</text>
+  <text x="77" y="14" fill="#fff" font-size="10.5" text-anchor="middle">15 Covered</text>
+</svg>

@@ -127,11 +127,4 @@ python "07-Graph/BFS.py"
 
 Each folder contains source code related to its specific topic, ready to read, run, and experiment with.
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to submit a pull request if you have improvements, optimizations, or new algorithms to add.
-
-
 
